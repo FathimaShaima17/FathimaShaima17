@@ -3,8 +3,6 @@
 
  **Currently learning backend development with Node.js to build full-stack applications**
 
-- 👨‍💻 All of my projects are available at [https://github.com/FathimaShaima17/Projects1](https://github.com/FathimaShaima17/Projects1)
-
 - 💬 Ask me about **MERN Stack development, React.js, Node.js, or web projects!**
 
 - 📫 How to reach me **kkshaima37@gmail.com**
