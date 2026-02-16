@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **MERN Stack development, React.js, Node.js, or web projects!**
 
-- 📫 How to reach me **kkshaima37@gmail.com**
+- 📫 How to reach me **saimakk252@gmail.com**
 
 **-I can spend hours debugging but still enjoy it 😄 - I love reading, journaling, and drawing in my free time**
 
