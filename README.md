@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm FATHIMA SHAIMA</h1>
-<h3 align="center">Aspiring MERN Stack Developer</h3>
-
- **Currently learning backend development with Node.js to build full-stack applications**
-
-- 💬 Ask me about **MERN Stack development, React.js, Node.js, or web projects!**
+<h3 align="center"> MERN Stack Developer</h3>
 
 - 📫 How to reach me **saimakk252@gmail.com**
 
